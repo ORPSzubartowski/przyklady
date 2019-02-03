@@ -1,12 +1,15 @@
 [Jeża]
 - Resident Evil 2
 - Destiny 2
+- PuBG
+- The Crew 2
 
-[Skrecza]
+[Superkomunisty]
 - Call Of Duty 2
-- CS
+- Counter Strajk 2.0
 - Overwatch
 
 [Stefana]
 - Who Dares Win II
 - Red Alert Dwa i jeden
+- Nazi Zombie Army
